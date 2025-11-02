@@ -1,0 +1,5 @@
+{
+  "name": "ProBill Management System",
+  "description": "A comprehensive management system for handling buyers, products, billing, and reports. This application provides full CRUD functionality for buyers and products, a dynamic billing interface, and reporting capabilities including activity logs and data export.",
+  "requestFramePermissions": []
+}
